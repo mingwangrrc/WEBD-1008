@@ -1,1 +1,127 @@
+WEBD-1008
+Project 1 Design to Development
+📜 ePortfolio Candidate 
+
+Download the necessary starter files from Learn. Failure to use the appropriate starting files will result in a mark of 0 for this project.
+
+Your instructor, an accomplished graphic designer, has created a mock of a website and given it to you in a PNG file. Open haydenmock.png and look at the design of the page. Your task is to create a valid HTML5 page and a corresponding external CSS file that will simulate what the mock is presenting.
+
+The images have already been sliced up for your convenience, and are located in the starter package you downloaded from Learn. Feel free to rename these files as you see fit.
+
+All submissions must be contained within a zipped folder. This is required in this course.
+
+Specification
+
+The page is a validated HTML5 page with appropriate semantic tags (loss of one mark if HTML is not valid) and meets expected coding practices.
+
+W3C Validation Service
+Links
+
+The links in the page do have to have <a> tags, but the href attribute is not required to be filled with a valid URL (use href=”#”)
+
+
+
+ALL navigation links should be given a hover and focus effect
+
+The background for the horizontal navigation has a gradient background. Use CSS3 techniques to replicate this. You may need to use a colour picker of some sort to get the hex values for the colours.
+
+
+
+Links in the paragraphs have styles, try to match the color and font weight as close as possible.
+
+
+
+The left hand navigation area, which has a gradient background (like the horizontal navigation, use CSS), uses bullets for its unordered list, except for the first item (“About Us”). Also note that the text is uppercase.
+
+
+Images
+
+All images (NASA logo, lunar rover, etc..) should be placed where the mock dictates.
+
+
+Text
+
+Use the text indicated in the mock.
+
+
+
+Notice the search box in the top right. Use the form elements to create this, however it is not required to have any functionality.
+
+
+Styling
+
+All styles should be created using external CSS.
+
+
+
+Verdana is the default font.
+
+
+
+There appears to be a shadow for the content area, use CSS3 techniques to create this effect.
+
+
+
+Be sure to use ID attributes when appropriate, and classes when required.
+
+
+Free Photo Editors (you are free to use others)
+Picasa
+Gimp
+Photoshop Express Online Editor
+Paint.net
+Some Suggestions
+
+When positioning elements, remember that it is always better to allow the page to flow naturally, rather than attempting to absolute position every block. Use absolute positioning only for small blocks, if at all. 
+
+When creating the main horizontal navigation, there are dividers between the links. The most consistent way to do this is by using pseudo-elements (like :before & :after), the content property,  and borders (main navigation). See if you can figure it out.
+
+
+
+
+
+
+
+Rubric 
+
+Deduction Level
+5 Marks
+1 Mark
+0 Marks
+HTML
+
+
+Validation Errors
+
+Multiple tags missing
+All tags included
+CSS
+No CSS
+
+Demo CSS used
+
+
+
+Inline styles used
+
+Styles missing
+
+Missing hover effects for links
+External CSS
+
+All styles included
+Effort
+Starting files not used
+
+Project not submitted
+Content is limited
+
+Misaligned items in the page
+
+Multiple resolutions not considered (CTRL+ & CTRL -)
+
+
+
+
+
 
