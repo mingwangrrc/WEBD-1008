@@ -1,1 +1,262 @@
+WEBD-1008
+Competency 12 Javascript Syntax
+
+Download the necessary starter files from Learn. Failure to use the appropriate starting files will result in a mark of 0 for this assignment.
+
+
+Task
+Description
+Completed
+Arrays
+In script.js, create an array with 5 of your favourite quotes.
+
+
+Loops
+In the HTML, add each array element within a new <p> tag, and template literals ( ` ` ) should be used.
+
+Hint: grab the body element, and using a loop, add these paragraphs created in the template literal to the html. Be sure to use +=!
+
+
+Documentation
+Fill out the documentation section at the top of the provided starting file. 
+
+Zip your file and submit to the appropriate Learn Dropbox. 
+
+
+
+
+
+Rubric 
+
+Deduction Level
+3 Marks
+2 Marks
+1 Marks
+0 Marks
+
+
+Competency not handed in
+
+Starting files not used
+
+Syntax Errors
+
+
+Array doesn’t contain meaningful content
+
+Paragraph tags not created in output
+
+Template literals not used
+
+Documentation was not completed
+
+
+
+All tasks completed.
+
+Documentation is properly filled out.
+
+
+WEBD-1008
+Competency 13 Event Listeners
+
+Download the necessary starter files from Learn. Failure to use the appropriate starting files will result in a mark of 0 for this assignment.
+
+
+Task
+Description
+Completed
+Start Up
+Provide an event listener that will trigger the load() function when the DOM has completed loading.
+
+
+Load
+Add an event listener to the button in the form that will trigger the clickMe() function.
+
+
+clickMe
+Add code to the clickMe() function that will toggle the display of the <input> tag.
+
+Notice that if the input is not displayed, clicking the button displays the input. If the input IS displayed, clicking the button hides the input.
+
+
+
+
+Documentation
+Fill out the documentation section at the top of the provided starting file. 
+
+Zip your file and submit to the appropriate Learn Dropbox. 
+
+
+
+
+
+Rubric 
+
+Deduction Level
+3 Marks
+2 Marks
+1 Marks
+0 Marks
+
+
+Competency not handed in
+
+Starting files not used
+
+Syntax Errors
+HTML is modified
+Event listener for load function not completed
+
+Event listener  for the button is properly created
+
+The clickMe function doesn’t toggle the input’s display
+
+Documentation was not completed
+
+
+
+All tasks completed.
+
+Documentation is properly filled out.
+
+
+WEBD-1008
+Competency 14 Manipulating Elements
+
+Download the necessary starter files from Learn. Failure to use the appropriate starting files will result in a mark of 0 for this assignment.
+
+
+Task
+Description
+Completed
+Create an element
+In Javascript, create a new <p> tag.
+
+Add some lorem ipsum to the new element. 
+
+Add the new element to the element with an id of “results”.
+
+
+
+
+Inserting
+In Javascript, create a new <h2> tag. 
+
+Add text of some sort to the element.
+
+Insert the <h2> element before the <p> element created above. (Hint: you’ll have to look up the appropriate DOM method for this)
+
+
+Deleting
+In Javascript, remove the <footer> element from the DOM.
+
+
+Documentation
+Fill out the documentation section at the top of the provided starting file. 
+
+Zip your file and submit to the appropriate Learn Dropbox. 
+
+
+
+
+
+Rubric 
+
+Deduction Level
+3 Marks
+2 Marks
+1 Marks
+0 Marks
+
+
+Competency not handed in
+
+Starting files not used
+
+Syntax Errors
+Elements were added or deleted in the HTML, and not in Javascript
+<p> not created and added
+
+<h2> not inserted properly
+
+<footer> element not deleted
+
+Documentation was not completed
+
+
+
+All tasks completed.
+
+Documentation is properly filled out.
+
+
+WEBD-1008
+Competency 15 Using Math in Javascript
+
+Download the necessary starter files from Learn. Failure to use the appropriate starting files will result in a mark of 0 for this assignment.
+
+Data will be entered in the provided form; the name of the employee, hours worked, and rate of pay. 
+
+You will calculate the gross pay using the conditions presented below.
+
+Task
+Description
+Completed
+Calculate gross pay
+Starting in the calcPay() function:
+
+Calculate the employee’s pay by multiplying their rate of pay by the hours worked.
+
+If the hours worked are greater than 40, then calculate those extra hours at an increased pay rate of 50%.
+
+For example, if someone worked 45 hours at $10 an hour, 40 hours would be  multiplied by $10, and 5 hours would be multiplied by $15 per hour. 
+
+
+Precision
+In the printRow() function:
+
+Using the toFixed() method, convert the gross, tax, and net variables to be 2 decimal places.
+
+
+Documentation
+Fill out the documentation section at the top of the provided starting file. 
+
+Zip your file and submit to the appropriate Learn Dropbox. 
+
+
+
+
+
+Rubric 
+
+Deduction Level
+3 Marks
+2 Marks
+1 Marks
+0 Marks
+
+
+Competency not handed in
+
+Starting files not used
+
+Syntax Errors
+
+
+Gross pay (without overtime) not calculated correctly
+
+Overtime calculated incorrectly
+
+Values not formatted to 2 decimal places
+
+Documentation was not completed
+
+
+
+All tasks completed.
+
+Documentation is properly filled out.
+
+
 
