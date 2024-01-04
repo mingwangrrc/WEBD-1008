@@ -1,1 +1,244 @@
+WEBD-1008
+Competency 1: HTML Intro
+
+Download the necessary starter files from Learn. Failure to use the appropriate starting files will result in a mark of 0 for this assignment.
+Make sure the content is meaningful!
+
+Task
+Description
+Completed
+Block Tags
+Create 5 unique block tags of your choosing with unique content for each
+
+
+Inline Tags
+Create 3 unique inline tags (no img tags), 1 of which must be a link to a website of your choosing
+
+
+Images
+Download 3 images legally and create an <img> tag for each in your HTML
+
+
+Documentation
+Fill out the documentation section at the top of the provided starting file. 
+
+Zip your file and submit to the appropriate Learn Dropbox. 
+
+
+
+
+
+
+Rubric 
+
+Deduction Level
+3 Marks
+2 Marks
+1 Marks
+0 Marks
+HTML
+Competency not handed in
+
+Starting files not used
+
+
+Block tags missing 
+
+Inline tags missing
+Alt attributes missing from images
+
+Documentation not completed
+
+Content is not meaningful
+All tags are used, with appropriate content
+
+Documentation is properly filled out
+
+
+
+
+
+WEBD-1008
+Competency 2: CSS
+
+Download the necessary starter files from Learn. Failure to use the appropriate starting files will result in a mark of 0 for this assignment.
+
+Task
+Description
+Completed
+Backgrounds
+Apply a background colour to the <body> tag.
+
+
+Alignment
+Apply a set width to the <article> tag. 
+
+Add CSS so that the <article> tag aligns to the middle of the page no matter the resolution. 
+
+Apply a border, border radius, and box shadow to the <article> tag.
+
+
+Lists
+Give the <ul> tag a set width.
+
+Apply a border style to the <li> tags.
+
+Change the padding property of the <li> tags, and in a CSS comment, describe what this does. 
+
+
+Documentation
+Fill out the documentation section at the top of the provided starting file. 
+
+Zip your file and submit to the appropriate Learn Dropbox. 
+
+
+
+
+
+Rubric 
+
+Deduction Level
+3 Marks
+2 Marks
+1 Marks
+0 Marks
+
+
+Competency not handed in
+
+Starting files not used
+More than one property was not applied
+
+The external CSS file was not used
+
+
+One property was not applied, but most were
+
+Documentation was not completed 
+All tasks completed
+
+Documentation is properly filled out
+
+
+WEBD-1008
+Competency 3 HTML Tables
+
+Download the necessary starter files from Learn. Failure to use the appropriate starting files will result in a mark of 0 for this assignment.
+
+Content in this competency is up to you, but it should be meaningful. No keyboard mashes or single character data is used. 
+
+Task
+Description
+Completed
+<table>
+Create a table with a <thead> and a <tbody>.
+
+
+<thead>
+In the <thead> create one row of headings with 4 columns. 
+
+Ensure you use the appropriate tag for table heading cells.
+
+
+<tbody>
+In the <tbody> create 3 rows of content that relates to the data in your heading row. 
+
+Ensure you use the appropriate tag for table data.
+
+
+Documentation
+Fill out the documentation section at the top of the provided starting file. 
+
+Zip your file and submit to the appropriate Learn Dropbox. 
+
+
+
+
+
+Rubric 
+
+Deduction Level
+3 Marks
+2 Marks
+1 Marks
+0 Marks
+
+
+Competency not handed in
+
+Starting files not used
+<tbody> and <thead> tags not used
+
+No meaningful data
+Appropriate tags for table cells not used
+
+Documentation was not completed
+All tasks completed.
+
+Documentation is properly filled out.
+
+
+WEBD-1008
+Competency 4 CSS for Tables
+
+Download the necessary starter files from Learn. Failure to use the appropriate starting files will result in a mark of 0 for this assignment.
+
+
+Task
+Description
+Completed
+Background
+Use a legally obtained image as the background for this page.
+
+Remember to source your images! (in HTML comments)
+
+
+Table
+Using only CSS, apply zebra striping with a colour of your choice.
+
+When the user hovers over a row, apply a style that will change the background colour of the row to something completely different from the rest of the colours on the page.
+
+
+Font
+Using Google Fonts, choose a web font and apply it to this page
+
+
+Documentation
+Fill out the documentation section at the top of the provided starting file. 
+
+Zip your file and submit to the appropriate Learn Dropbox. 
+
+
+
+
+Rubric 
+
+Deduction Level
+3 Marks
+2 Marks
+1 Marks
+0 Marks
+
+
+Competency not handed in
+
+Starting files not used
+Multiple tasks not completed
+
+
+
+Background image not applied to the page
+
+Zebra striping not done
+
+Row hover style not done
+
+Web font not applied
+
+Documentation was not completed (both files)
+All tasks completed.
+
+Documentation is properly filled out.
+
+
 
