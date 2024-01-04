@@ -1,1 +1,64 @@
 
+WEBD-1008
+Project 2 Accessibility
+Part 1
+Using your files from Project 1, and using axe DevTools run an accessibility check on your webpage. Best Practices must be turned on. 📸 Screenshot how many issues you have and be sure to include this image in your final submission.
+
+Using your own judgment*, fix as many of the issues as you can. You should aim to solve at least 80% of the issues on your page.
+ 
+*There can be multiple solutions to solving these issues. Come up with what you think works best!
+
+In the end, the page should be mostly, if not completely, free of accessibility issues, and still valid markup. Be sure to use the W3C Validator to ensure your markup is still valid.
+Part 2
+Using a website that you frequent often, run an accessibility check on their home page. How many issues were there? 
+
+With your vast accessibility experience, provide at least 5 accessibility improvement suggestions to the site owners with explanations as to their importance. 
+
+Download a version (screenshot 👇) of this Accessibility Report, and fill out the spreadsheet with your suggestions and explanations. Include this in your submission. 
+
+
+
+
+Submission Checklist
+Project 1 Files with Accessibility Changes Made
+
+
+Screenshot of Error Check from Axe Tools
+
+
+Completed Accessibility Report of chosen website
+
+
+Zipped folder of ALL files submitted to Learn 
+
+
+
+
+
+Rubric
+
+
+2 Marks
+1 Mark
+0 Marks
+Part 1
+80% of issues not fixed
+
+Screenshot not included
+Markup not valid 
+Accessibility issues fixed
+
+Markup is still valid
+Part 2
+Accessibility Report not submitted
+
+
+
+5 thoroughly described suggestions not made
+
+Report is incomplete
+Suggestions are well thought out and explained
+
+Report is complete
+
+
