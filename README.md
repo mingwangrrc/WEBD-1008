@@ -3,25 +3,37 @@
 ## Introduction
 Welcome to the WEBD-1008 Web Development Course Repository. This repository serves as a resource and guide for students enrolled in the WEBD-1008 course, focusing on the fundamentals of web development including HTML, CSS, JavaScript, and responsive design principles.
 
-## Course Description
-WEBD-1008 is an introductory course designed to equip students with the essential skills and knowledge needed to begin crafting interactive and responsive web applications. Through a series of assignments and projects, students will learn to implement modern web design techniques and best practices.
-
 ## Important Notes
-- **Educational Purpose**: The code and resources provided in this repository are for educational purposes only. They are meant to guide and assist you in understanding the concepts and assignments of the WEBD-1008 course.
-- **Academic Integrity**: Students are encouraged to use this repository as a reference and learning tool. However, copying code directly for assignments or projects is strongly discouraged and may lead to academic consequences. Always strive to understand the material and complete the work independently.
+- **For Review and Understanding Only**: The codes in this repository are intended for review purposes and to give a basic idea of how the assignments are structured. They are not meant to be copied directly for your assignments.
+- **Academic Integrity**: It's crucial to adhere to your institution's academic integrity policy when utilizing this repository. Directly copying code for your assignments can result in severe academic consequences.
 
 ## Disclaimer
-The owner of this repository does not take any responsibility for academic misconduct resulting from the misuse of the material provided. It is the user's responsibility to adhere to their academic institution's policies on integrity and proper citation.
+- The information and code in this repository are provided for educational purposes only. The owner of this repository does not condone plagiarism or academic dishonesty.
+- **I do not take any responsibility if copying my code leads to academic issues, including receiving a grade of 0 or other sanctions.** It's your responsibility to use these resources ethically and within the guidelines of your academic institution.
+- While effort is made to keep the repository up-to-date, the owner does not guarantee the accuracy or completeness of the code.
 
 ## Repository Structure
-- **Assignments**: Each folder corresponds to a specific assignment given in the WEBD-1008 course. Inside, you'll find starter code, resources, and instructions related to the assignment.
-- **Resources**: This section includes additional resources such as links to reading materials, tutorials, and tools that can assist in the learning process.
-- **Projects**: Sample projects or project guidelines may be provided here to give students an idea of how to integrate the skills learned into a comprehensive project.
+Each directory within this repository corresponds to a specific assignment from the WEBD-1008 course. Inside, you'll find the code files along with a brief description of the assignment.
 
 ## Usage
-- **Explore**: Navigate through the repository to understand the structure and content of the WEBD-1008 course.
-- **Learn**: Use the resources and code examples to aid your learning process and understand how to apply concepts in practical scenarios.
-- **Contribute**: If you're a past student or have relevant resources to contribute, please adhere to the contribution guidelines provided.
+1. **Explore**: Feel free to browse the directories and examine the code to understand how different problems are approached and solved.
+2. **Learn**: Use the code as a reference to learn new techniques and methodologies that you might apply to your own work.
+3. **Do Not Copy**: Remember, the purpose of these assignments is to challenge and improve your coding skills. Use them for learning, not copying.
+
+## Contributions
+If you've taken the WEBD-1008 course and wish to contribute to this repository, please ensure your contributions adhere to the following:
+- **No Direct Answers**: Do not provide direct answers to assignment questions.
+- **Guidance Only**: Provide guidance, best practices, and learning tips instead.
+- **Quality**: Ensure your code is readable, well-commented, and follows good coding practices.
+
+## Disclaimer
+The owner of this repository is not responsible for any academic misconduct that arises from the misuse of the code provided. It is your responsibility to use these resources ethically and within the guidelines of your academic institution.
+
+## Contact
+If you have any questions or suggestions regarding this repository, please feel free to [open an issue](link-to-your-repository-issues-section).
+
+Thank you for visiting and happy learning!
+
 
 ## Contribution Guidelines
 If you wish to contribute to this repository, please ensure your contributions are educational, relevant, and follow good coding practices. Direct answers to assignment questions are not permitted.
