@@ -1,1 +1,136 @@
 
+WEBD-1008
+Competency 16 Traversing JSON
+
+Download the necessary starter files from Learn. Failure to use the appropriate starting files will result in a mark of 0 for this assignment.
+
+Visit the dog.ceo website. Notice that you can choose from different datasets. 
+
+Task
+Description
+Completed
+JSON
+Using the Dog API (website link above), choose a dataset and copy the provided URL.
+
+Add the url to the provided fetch API code in the Javascript file.
+
+
+Elements
+Using your dog dataset, create at least 2 HTML elements and add them to the <main> tag that is already in the markup.
+
+In your created elements you will add data that you got back from your fetch API call.
+
+
+Documentation
+Fill out the documentation section at the top of the provided starting file. 
+
+Zip your file and submit to the appropriate Learn Dropbox. 
+
+
+
+
+
+Rubric 
+
+Deduction Level
+3 Marks
+2 Marks
+1 Marks
+0 Marks
+
+
+Competency not handed in
+
+Starting files not used
+
+Syntax Errors
+
+
+Less than 2 HTML elements created that contain API data
+
+Dataset not accessed or accessed incorrectly 
+
+Documentation was not completed
+
+
+
+All tasks completed.
+
+Documentation is properly filled out.
+
+
+WEBD-1008
+Competency 17 Using JSON to Create HTML
+
+Download the necessary starter files from Learn. Failure to use the appropriate starting files will result in a mark of 0 for this assignment.
+
+
+Task
+Description
+Completed
+JSON file
+Study the structure of the zooland JSON and its keys/values.
+
+Add an animal of your choosing to the JSON file, along with 4 related images. Failure to complete information with appropriate content may result in loss of a mark or worse; your instructor’s disappointment 😣
+
+The images must be added to the images folder.
+
+
+Javascript
+When the JSON is loaded, add only your animal to the HTML inside the <div> tag that has an id of “content”.
+
+Use an <h2> for the name of the animal.
+
+Use an <h3> for the scientific name.
+
+Use a <blockquote> for the description.
+
+Dynamically create <img> elements to  add its images. If more images were added to the JSON, your code should still work!
+
+
+Example of the Orca animal being retrieved and output:
+
+
+
+
+Documentation
+Fill out the documentation section at the top of the provided starting file. 
+
+Zip your file and submit to the appropriate Learn Dropbox. 
+
+
+
+
+
+
+Rubric 
+
+Deduction Level
+3 Marks
+2 Marks
+1 Marks
+0 Marks
+
+
+Competency not handed in
+
+Starting files not used
+
+Syntax Errors
+New animal not created completely in JSON file
+
+Images not inside the images folder
+Created animal not used to complete specs
+Incorrect element is used for output
+
+Image elements not created dynamically
+
+Documentation was not completed
+
+
+
+All tasks completed.
+
+Documentation is properly filled out.
+
+
