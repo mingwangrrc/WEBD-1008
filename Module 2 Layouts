@@ -1,1 +1,241 @@
 
+WEBD-1008
+Competency 5 Positioning
+
+Download the necessary starter files from Learn. Failure to use the appropriate starting files will result in a mark of 0 for this assignment.
+
+Note that the starting HTML does not look pretty. However the changes you make positioning the image will align the navigation. 
+
+
+Task
+Description
+Completed
+Image Positioning
+Position the “moss.jpg” image so that it is positioned to the right of the navigation. It should always be -100px from the right and -20px from the top, regardless of resolution.
+
+
+
+
+Element Positioning
+Ensure the aside element never moves from its position, even when the page scrolls.
+
+
+Documentation
+Fill out the documentation section at the top of the provided starting file. 
+
+Zip your file and submit to the appropriate Learn Dropbox. 
+
+
+
+
+
+Rubric 
+
+Deduction Level
+3 Marks
+2 Marks
+1 Marks
+0 Marks
+
+
+Competency not handed in
+
+Starting files not used
+
+
+Image not positioned properly
+
+Aside not positioned properly
+
+Documentation was not completed
+
+
+
+All tasks completed.
+
+Documentation is properly filled out.
+
+
+
+WEBD-1008
+Competency 6 Flexbox 💪
+
+Download the necessary starter files from Learn. Failure to use the appropriate starting files will result in a mark of 0 for this assignment.
+
+
+Task
+Description
+Completed
+Align tags
+Create 3 block tags with content within them (you can use an ipsum text)
+
+Using flex, align these items horizontally
+
+Change the order of the items
+
+Using the align-items property, change the default vertical position of the flex container. 
+
+
+Documentation
+Fill out the documentation section at the top of the provided starting file. 
+
+Zip your file and submit to the appropriate Learn Dropbox. 
+
+
+
+
+
+
+Rubric 
+
+Deduction Level
+3 Marks
+2 Marks
+1 Marks
+0 Marks
+
+
+Competency not handed in
+
+Starting files not used
+
+
+Less than 3 tags created
+
+Items not horizontally aligned using flex
+
+Order not changed
+
+Vertical alignment of one tag not changed
+
+Documentation was not completed
+
+
+
+All tasks completed.
+
+Documentation is properly filled out.
+
+
+WEBD-1008
+Competency 7 Navigation
+Download the necessary starter files from Learn. Failure to use the appropriate starting files will result in a mark of 0 for this assignment.
+
+Task
+Description
+Completed
+Create a simple navigation in HTML
+In your HTML, create a navigation with 5 links using a <ul> or an <ol> tag. 
+
+Ensure a proper HTML5 semantic tag is used to wrap your list.
+
+Ensure the links have an href attribute set to “#”.
+
+
+Styling the Navigation
+Apply a CSS Gradient to the background of your navigation.
+
+In CSS, using the flexbox, make the links horizontal. Do NOT use a media query for this task.
+
+Ensure when the browser window reduces in size the links wrap to the next line.
+
+Give the links styles for when the user hovers over them.
+
+
+Documentation
+Fill out the documentation section at the top of the provided starting file. 
+
+Zip your file and submit to the appropriate Learn Dropbox. 
+
+
+
+Rubric 
+
+Deduction Level
+3 Marks
+2 Marks
+1 Marks
+0 Marks
+
+
+Competency not handed in
+
+Starting files not used
+
+
+Less than 5 links created
+
+Semantic HTML5 tag not used
+
+List isn’t horizontal
+
+CSS gradient not created
+
+Links don’t wrap when resolution is reduced or a media query is used
+
+No hover effects 
+
+Documentation was not completed
+
+
+
+All tasks completed.
+
+Documentation is properly filled out.
+
+
+WEBD-1008
+Competency 8 Media Queries 
+
+Download the necessary starter files from Learn. Failure to use the appropriate starting files will result in a mark of 0 for this assignment.
+
+Task
+Description
+Completed
+
+
+Create a media query that will make the navigation present vertically when the width is less than 680 pixels. 
+
+In that media query, change the necessary properties of the <ul> and the <li> tags so that when the browser is <= 680px, the navigation becomes vertical, as depicted or shown below.
+
+Change the hover styles so that the background colour of the <li> changes.
+
+
+
+
+Documentation
+Fill out the documentation section at the top of the provided starting file.
+
+Zip your file and submit to the appropriate Learn Dropbox. 
+
+
+
+Rubric 
+
+Deduction Level
+3 Marks
+2 Marks
+1 Marks
+0 Marks
+
+
+Competency not handed in
+
+Starting files not used
+Media query not created
+Styles not changed for ul
+
+Styles not changed for li
+
+Hover effect not applied
+
+Documentation was not completed
+
+
+
+All tasks completed.
+
+Documentation is properly filled out.
+
+
+
