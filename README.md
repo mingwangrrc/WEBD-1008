@@ -33,12 +33,3 @@ The owner of this repository is not responsible for any academic misconduct that
 If you have any questions or suggestions regarding this repository, please feel free to [open an issue](link-to-your-repository-issues-section).
 
 Thank you for visiting and happy learning!
-
-
-## Contribution Guidelines
-If you wish to contribute to this repository, please ensure your contributions are educational, relevant, and follow good coding practices. Direct answers to assignment questions are not permitted.
-
-## Contact
-If you have any questions, concerns, or suggestions regarding this repository, please feel free to [open an issue](link-to-your-repository-issues-section).
-
-Thank you for visiting this repository, and best of luck in your web development journey!
