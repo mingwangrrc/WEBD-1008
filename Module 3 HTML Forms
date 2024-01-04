@@ -1,1 +1,196 @@
+WEBD-1008
+Competency 9 Inputs and Labels
+
+Download the necessary starter files from Learn. Failure to use the appropriate starting files will result in a mark of 0 for this assignment.
+
+
+Task
+Description
+Completed
+Create Inputs
+Create 5 inputs; each of a different type (at least 2 of which is an HTML5 input type)
+
+For each input create a meaningful label
+
+Ensure that when clicked, the label will set focus to the associated input
+
+Use the placeholder attribute in at least one input
+
+
+Documentation
+Fill out the documentation section at the top of the provided starting file. 
+
+Zip your file and submit to the appropriate Learn Dropbox. 
+
+
+
+
+
+
+Rubric 
+
+Deduction Level
+3 Marks
+2 Marks
+1 Marks
+0 Marks
+
+
+Competency not handed in
+
+Starting files not used
+No HTML5 input types were used
+An input type was duplicated
+
+Documentation was not completed
+
+
+
+All tasks completed.
+
+Documentation is properly filled out.
+
+
+WEBD-1008
+Competency 10 Textareas, Buttons, & Selects
+
+Download the necessary starter files from Learn. Failure to use the appropriate starting files will result in a mark of 0 for this assignment.
+
+
+Task
+Description
+Completed
+Action
+Add a value to the action attribute of the form and in a <!--comment-->, explain what this attribute does.
+
+
+Textarea
+Create a textarea with an appropriate functioning label.
+
+Change the default dimensions of the textarea to something of your choosing.
+
+
+Buttons
+Create a regular button and text to appear on the button.
+
+Create a submit and reset button as well.
+
+In total, you will have 3 buttons.
+
+
+Select
+Add a <select> with at least 5 options.
+
+The content of the select must be meaningful.
+
+Ensure each option has a value attribute with an appropriate value.
+
+
+Documentation
+Fill out the documentation section at the top of the provided starting file. 
+
+Zip your file and submit to the appropriate Learn Dropbox. 
+
+
+
+
+
+Rubric 
+
+Deduction Level
+3 Marks
+2 Marks
+1 Marks
+0 Marks
+
+
+Competency not handed in
+
+Starting files not used
+
+
+An assigned task was not completed fully
+
+Content not meaningful
+
+Documentation was not completed
+
+
+
+All tasks completed.
+
+Documentation is properly filled out.
+
+
+WEBD-1008
+Competency 11 Aligning Form Elements
+
+Download the necessary starter files from Learn. Failure to use the appropriate starting files will result in a mark of 0 for this assignment.
+
+
+Task
+Description
+Completed
+Form
+Add a set width (% or px) to the form.
+
+Change the background and font colours.
+
+Align the form in the middle of the page.
+
+
+Labels and Textboxes
+Align the labels and textboxes so that the labels are all the same width. 
+
+Give all textboxes the same width as well.
+
+Ensure that labels and their associated inputs are on the same line (as shown below).
+
+
+
+
+Checkboxes
+Align the group of checkboxes so that all three options, and their labels, appear on the same line (horizontal).
+
+
+
+
+Documentation
+Fill out the documentation section at the top of the provided starting file. 
+
+Zip your file and submit to the appropriate Learn Dropbox. 
+
+
+
+
+
+Rubric 
+
+Deduction Level
+3 Marks
+2 Marks
+1 Marks
+0 Marks
+
+
+Competency not handed in
+
+Starting files not used
+
+
+Form not styled
+
+Inputs and labels not uniformly aligned
+
+Checkboxes not aligned properly
+
+Documentation was not completed
+
+
+
+All tasks completed.
+
+Documentation is properly filled out.
+
+
 
