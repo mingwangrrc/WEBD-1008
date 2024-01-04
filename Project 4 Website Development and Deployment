@@ -1,1 +1,127 @@
 
+WEBD-1008
+Project 4 Website Development & Deployment
+
+📜 ePortfolio Candidate 
+Synopsis
+Using HTML5, CSS, and JavaScript create a website for a hypothetical client, and upload it to the World Wide Web. The content and design of the website is up to you.
+*Lorem Ipsum (or any other “ipsum”) is not allowed for your project.
+**The “client” could be yourself. Consider making this project a portfolio for yourself that you could include on resumes. 
+If you have another idea but aren’t sure if it’s appropriate for this project, run the idea by your instructor. You have a lot of latitude!
+Pages
+Your website must contain at least three HTML5 Validated pages (any page not validated will result in a deduction of 1 mark per unvalidated page (up to 2 marks maximum) ☹ ). 
+A generic example of your pages could be:
+Home page
+The home page is a welcome page for the user. It should give a brief description of the company, with some updates on recent activity with the company (i.e. a sale or promotion). 
+There must be at least two headings of different sizes used on the home page. There must also be at least one image included on the page.
+*The home page should always be named index.html. When a domain name is typed in a browser (i.e. www.thinkgeek.com), the index page is usually considered the home page by the web server, and is the one that is returned to the browser.
+Products/Services page
+A products or services page should describe what goods the company sells or what services it provides. 
+At least two goods or services must be included. Images and appropriate headings should be included for each good/service, along with a detailed description. 
+If choosing a portfolio site for yourself, consider listing skills you have.
+Contact page
+The contact page will include a form the user can fill out to send feedback to or ask questions of the company. 
+The form should contain at least:
+A name field
+A phone number field
+An email field
+A comments area
+Submit and Reset buttons
+Functional labels for each input
+*Use HTML5 input types where appropriate
+Inline validation is required of the contact page. Use an external JavaScript file to ensure the user has entered data in the name field, a ten digit number in the phone number field, and a valid email address (use Regular Expressions).
+When an error is encountered, a previously hidden error message should display, focus should be set to the field in error, and the text highlighted.
+Style the form so that when the user has focus on a field, its background colour and font colour are changed. All validation should take place once the user has clicked on the submit button.
+You can set the form's action attribute to the site’s home page. This won’t send the form data anywhere, but at the least it can simulate the form submission process.
+Design
+The website will have a common header and navigation area for every page. A footer area should be shown at the bottom of every page, and have a similar look on every page.
+Use media queries to ensure that your site is responsive in multiple resolutions.
+Header area
+The header area is your design choice completely. The only requirement is that it looks exactly the same on each page.
+Navigation
+The navigation can be horizontal or vertical. It must contain links to every page in your site.
+Like the header area, the navigation must be in the same location on every page.
+Similar to your previous assignments, the navigation should have hover effects. Meaning when the user is either hovering with the mouse, or has focus on that navigation item, highlighting must be present.
+Content
+The content area should appear with exactly the same width on each page. Of course, the height is variable on each page.
+All other styles for the content are up to you.
+Footer
+A footer should be included that includes the links the navigation area has, but much more subtle. 
+If you researched other websites, you would notice that most footer links are using smaller text than anywhere else on the page. This is a common practice in web design, and should be considered here.
+Styles
+Include all styling within one external CSS file.
+For the header, navigation, content and footer areas, IDs should be used, not classes.
+WEB-Hosting (Upload to the WWW)
+The final step of your project is to upload your site to the WWW. There are a few hosting services that offer free hosting of websites. Note that in exchange for hosting your website, they may insert ads into your pages.
+Find a free hosting service that allows you to use FTP to transfer your files. WebHosting seems to be one of the most popular choices.
+Registration page:
+
+Once you have filled out the registration page, click the Register button. The process of Registration may take less than 15 minutes or more. Make sure to take down the information after the process is completed.
+Uploading your files via FTP
+After you have registered, you will notice a control panel area. Here, you can actually use a file manager to upload your files. However, this can be cumbersome.
+In Web publishing, the most common practice for uploading files is FTP (File Transfer Protocol). 
+The first thing you’ll need is an FTP client. There are quite a few free options. Download and install the client of your choice. Example: for Windows free ftp client, for Mac free fileZilla.
+Launch Client and fill out the ftp Host name, ftp Username and ftp password that you have received after completing the registration, above. 
+
+Click on Login.
+On the left side, you will navigate to your project directory. From here you can select the file(s) that you need to upload to your htdocs directory.
+Select the files, and click on the upload to transfer the files to your domain. And that’s it.
+Viewing your site
+Navigate to the URL provided to view your website. It may take a couple hours after upload for the DNS to propagate.  
+*One note about ads, if you’re feeling dangerous, there are ways to remove the ads from your site with a little fancy coding. Feel free to Bing this if you live on the edge.
+Due date
+Your projects have to be uploaded to your domain and Learn by 11:59pm on April 26th.  Once you have uploaded your files to your web hosting service and to the Learn Dropbox, add a note in the submission comments with your URL link. 
+(Note that you must zip your files up before submitting to Learn).
+Good luck and have some fun!
+
+Rubric 
+
+Deduction Level
+5 Marks
+2 Marks
+1 Mark
+0 Marks
+HTML & CSS
+Project not submitted
+2+ HTML pages fail validation
+
+No CSS is used
+1 HTML page fails validation
+
+Inline CSS is used
+
+Media query not created
+All HTML is validated
+
+One external CSS used by all pages
+Javascript
+
+
+Javascript not used in the contact page
+
+
+
+
+Errors in form validation
+
+Labels not functional
+
+Syntax errors
+Form is fully validated with appropriate error messages
+Accessibility
+
+
+
+
+Your website does not achieve 100% accessibility compliance using Axe DevTools
+
+
+Deployment
+
+
+
+
+No link provided or site is not hosted
+Website is deployed on an external host and is accessible on the WWW
+
+
